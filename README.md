@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @kauannydhanielly
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!DOCKTYPE html>
+<html  lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Barbearia alura</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
 
-<!---
-kauannydhanielly/kauannydhanielly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    <body>
+        <header>
+            <hl class="titulo-pricipal">Barbearia Alura</h1>
+        </header>
+        <img id="banner" src="banner.jpg"
+        <div class="pricipal">
+            <h2 class≃"titulo-centralizado">Sobre a Barbearia Alura</h2>
+
+            <p>Localizada no 
